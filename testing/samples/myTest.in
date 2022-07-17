@@ -1,0 +1,13 @@
+> init
+<<<
++ wug.txt wug.txt
+> add wug.txt
+<<<
+> commit "hi"
+<<<
+> rm wug.txt
+<<<
+* wug.txt
+> add bbbbb
+File does not exist.
+<<<

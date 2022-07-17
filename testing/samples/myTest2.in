@@ -1,0 +1,16 @@
+> init
+<<<
++ wug.txt wug.txt
+> add wug.txt
+<<<
+> commit "added wug"
+<<<
+> rm wug.txt
+<<<
+* wug.txt
+> add wug.txt
+<<<
+> init
+A Gitlet version-control system already exists in the current directory.
+<<<
+

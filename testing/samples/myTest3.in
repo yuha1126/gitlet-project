@@ -1,0 +1,16 @@
+> init
+<<<
++ wug.txt wug.txt
+> add wug.txt
+<<<
+> commit "hi"
+<<<
+> add wug.txt
+<<<
+> add bbbbb
+File does not exist.
+<<<
+> checkout master
+No need to checkout the current branch.
+<<<
+
